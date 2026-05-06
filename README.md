@@ -1,4 +1,4 @@
-# Project ConicSectionGrapher in Java
+# Project- Conic Equation Visualizer App in Java
 Create a Java program that draws the conic graph of the general equation:  
 
 **a₁₁x² + 2a₁₂xy + a₂₂y² + 2a₁₃x + 2a₂₃y + a₃₃ = 0**
